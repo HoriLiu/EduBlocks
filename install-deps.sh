@@ -15,4 +15,4 @@ if [ -f ~/.config/chromium/Default/Preferences ]; then
 fi
 
 echo "Installing edupy and associated libraries"
-sudo pip3 install edupy python-sonic blinkt explorerhat 'ipython==6.0.0'
+sudo pip3 install edupy python-sonic blinkt explorerhat cs20-microbitio 'ipython==6.0.0'
